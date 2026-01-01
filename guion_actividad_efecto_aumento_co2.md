@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1,5 horas de trabajo en clase.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/tags/2025_2026/imagenes/portada.png)
 
 
 
@@ -33,7 +33,7 @@ Para lograr los objetivos anteriores procedemos analizando separadamente el efec
 
 ## Ecosistemas terrestres
 
-Las siguientes secciones se han creado automáticamente por la IA perplexity a partir de la transcripción del audio que grabamos en la clase al impartir este tema. Puedes descargar el audio [aquí](https://github.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/raw/refs/heads/main/audio/audio_fertilizacion_co2_terrestres_66bps.m4a) y escucharlo en línea a continuación:
+Las siguientes secciones se han creado automáticamente por la IA perplexity a partir de la transcripción del audio que grabamos en la clase al impartir este tema. Puedes descargar el audio [aquí](https://github.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/raw/refs/tags/2025_2026/audio/audio_fertilizacion_co2_terrestres_66bps.m4a) y escucharlo en línea a continuación:
 
 <audio controls>
   <source src="audio/audio_fertilizacion_co2_terrestres_66bps.m4a" type="audio/mpeg">
@@ -42,7 +42,7 @@ Las siguientes secciones se han creado automáticamente por la IA perplexity a p
 
 Además, durante la explicación hice un esquema en la pizarra. Puedes verlo a continuación. 
 
-![terrestres_pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/clase_ecosistemas_terrestres.jpg)
+![terrestres_pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/tags/2025_2026/imagenes/clase_ecosistemas_terrestres.jpg)
 
 
 
@@ -50,7 +50,7 @@ Por último, me he atrevido a pedirle a la IA Notebook LM que genere una infogra
 
 
 
-![terrestres_ia](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/efecto_co2_terrestres_ia.png)
+![terrestres_ia](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/tags/2025_2026/imagenes/efecto_co2_terrestres_ia.png)
 
 
 
@@ -156,7 +156,15 @@ El siguiente esquema muestra lo que pinté en la pizarra para estudiar el efecto
 
 
 
-![acuaticos_pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/ecosistemas_acuaticos.png)
+![acuaticos_pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/tags/2025_2026/imagenes/ecosistemas_acuaticos.png)
+
+Al igual que antes, he pedido a NotebookLM que haga una infografía con la explicación dada en clase:
+
+
+
+
+
+
 
 
 
