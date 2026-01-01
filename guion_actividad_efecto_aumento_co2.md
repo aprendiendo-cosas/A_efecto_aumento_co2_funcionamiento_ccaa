@@ -152,11 +152,29 @@ En el caso del CO₂:
 
 ## Ecosistemas acuáticos
 
-
+El siguiente esquema muestra lo que pinté en la pizarra para estudiar el efecto del aumento del  CO₂ en los océanos
 
 
 
 ![acuaticos_pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/despacho_ecosistemas_acuaticos.png)
+
+
+
+La relación entre el aumento de las concentraciones de CO₂ atmosférico y la producción primaria neta en los ecosistemas marinos es compleja y no lineal, involucrando mecanismos fisiológicos, físicos y químicos contrapuestos. Aunque el CO₂ es un sustrato esencial para la fotosíntesis, la evidencia científica indica que sus efectos indirectos sobre la física y la química del océano prevalecen sobre su potencial rol directo como fertilizante, resultando en una posible disminución neta de la biomasa marina a largo plazo.
+
+El siguiente razonamiento empieza afirmando que el aumento de los niveles de CO₂ en la atmósfera provoca un aumento de ese gas en el océano. Eso aumenta la cantidad de ión bicarbonato, lo cual baja el pH del agua oceánica.
+
+Desde una perspectiva puramente fisiológica, se podría postular una "hipótesis de fertilización". Dado que el carbono inorgánico es un recurso limitante en ciertos contextos fotosintéticos, un incremento en la disponibilidad de CO₂ disuelto podría, teóricamente, estimular las tasas de producción primaria y aumentar la biomasa algal hasta alcanzar un punto de saturación fisiológica u otra limitación de recursos.
+
+En realidad, la respuesta es compleja porque el CO₂ afecta tanto a la fotosíntesis (potencialmente positivo) como a la química del agua (negativo, acidificación).
+
+1. Cocolitoforales (Calcificadores): Efecto Principalmente Negativo
+
+Estos organismos construyen placas de carbonato de calcio (CaCO₃). El aumento de CO₂ se disuelve en el agua, baja el pH (acidificación) y reduce la disponibilidad de los iones carbonato necesarios para construir esas placas. Esto hace que la calcificación sea energéticamente mucho más costosa o incluso que sus estructuras se disuelvan. Aunque el CO₂ extra podría ayudar a su fotosíntesis, el estrés químico sobre sus esqueletos suele ser el factor dominante y negativo.
+
+2. Diatomeas (Silicificadores): Efecto Neutro o Ligeramente Positivo (químicamente)
+
+Sus caparazones están hechos de sílice, material que no se ve afectado directamente por la bajada del pH. Por lo tanto, no sufren el estrés de calcificación de los cocolitoforales. De hecho, algunas especies podrían beneficiarse ligeramente de una mayor disponibilidad de CO₂ disuelto para la fotosíntesis si no están limitadas por otros nutrientes. Sin embargo, la bajada en el pH del agua sí puede afectar negativamente a la descomposción de las cubiertas de sílice de las diatomeas. 
 
 
 
