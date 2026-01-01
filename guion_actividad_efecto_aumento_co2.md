@@ -156,6 +156,10 @@ En el caso del CO₂:
 
 
 
+![acuaticos_pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/despacho_ecosistemas_acuaticos.png)
+
+
+
 
 
 
